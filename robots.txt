@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartrbotsmere-rgb.github.io/smart-r-bots-online/sitemap.xml
